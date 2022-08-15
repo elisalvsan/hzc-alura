@@ -463,3 +463,33 @@ body {
       grid-area: secao-picos-mais-visitados;
     }
   }
+
+
+  /*--------VIDEOS-------*/
+
+  @media screen and (min-width: 1024px) {
+    .principal--videos {
+      grid-template-areas:
+        "titulo-pagina titulo-pagina titulo-pagina"
+        "videos-video videos-video videos-favoritos"
+        "secao-video-mais-visto secao-video-mais-visto secao-video-mais-visto";
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    .titulo-pagina{
+      grid-area: titulo-pagina;
+    }
+
+    .videos-video {
+      grid-area: videos-video;
+    }
+
+    .videos-favoritos {
+      grid-area: videos-favoritos;
+    }
+
+    .secao-video-mais-visto {
+      grid-area: secao-video-mais-visto;
+    }
+  }
