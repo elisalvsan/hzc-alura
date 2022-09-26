@@ -9,7 +9,7 @@
 | :fire: Desafio     | CSS: dispondo elementos com Flexbox e Grid
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/elisalvsan/hzc-alura/blob/main/src/assets/img/vitrine-dev/hzc-desktop.jpeg?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -25,10 +25,10 @@ Projeto desenvolvido durante o curso de CSS: dispondo elementos com Flexbox e Gr
 
 #### Desktop
 
-![]()
+![](https://github.com/elisalvsan/hzc-alura/blob/main/src/assets/img/vitrine-dev/hzc-desktop.jpeg?raw=true)
 
 #### Mobile
 
-![]()
+![](https://github.com/elisalvsan/hzc-alura/blob/main/src/assets/img/vitrine-dev/hzc-phone.jpeg?raw=true)
 
-Você pode acessar o site por aqui [HZC](https://github.com/elisalvsan/hzc-alura)
+Você pode acessar o site por aqui [HZC](https://elisalvsan.github.io/hzc-alura/)
